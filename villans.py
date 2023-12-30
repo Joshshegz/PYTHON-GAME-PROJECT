@@ -26,3 +26,15 @@ class Monster:
         goblin = print(f'You met {self.type} each with attack {self.attack}, defense {self.defense}, health {self.health}, agility {self.agility}, magic {self.magic}')
         
         return Monster
+
+
+class Clan:
+    def __init__(self, name, bonus_attack, bonus_defense, bonus_health, bonus_agility):
+        self.name = name
+        self.bonus_attack = bonus_attack
+        self.bonus_defense = bonus_defense
+        self.bonus_health = bonus_health
+        self.bonus_agility = bonus_agility
+
+
+
