@@ -41,3 +41,7 @@ If the player chooses the arena, they will battle against a wolf. The wolf has t
 * **Agility:** A random number between 10 and 30
 
 The battle is turn-based. On each turn,
+
+## Clans..
+
+you are to join a clan to join the battle force....or u fight alone.
